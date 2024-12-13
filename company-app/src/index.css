@@ -1,0 +1,7 @@
+.center-container {
+    display: flex;
+    justify-content: center; /* Pusatkan secara horizontal */
+    align-items: center;    /* Pusatkan secara vertikal */
+    height: 100vh;          /* Buat elemen mengambil tinggi penuh viewport */
+    background-color: #f8f9fa; /* (Opsional) Background untuk memberikan kontras */
+}
